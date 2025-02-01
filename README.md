@@ -10,6 +10,11 @@
 
 ## Overview
 
+| **Results Overview** |  
+|----------|
+| ![Alt1](Camera_calib.png) |
+| Input, Chessboard, Rectified of an Image |
+
 This project provides an implementation of camera calibration using a checkerboard pattern. The calibration technique is based on Zhengyou Zhang's method, which involves estimating the intrinsic and extrinsic parameters of the camera. The implementation includes:
 
 - Estimation of the homography matrix for each calibration image
