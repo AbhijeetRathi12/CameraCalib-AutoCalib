@@ -1,13 +1,5 @@
 # CameraCalib-AutoCalib:
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Functions](#functions)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 | **Results Overview** |  
@@ -23,6 +15,14 @@ This project provides an implementation of camera calibration using a checkerboa
 - Optimization of the intrinsic and distortion parameters
 - Error calculation before and after optimization
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Functions](#functions)
+- [Acknowledgments](#acknowledgments)
+  
 ## Requirements
 
 To run this script, you need Python 3 and the following Python packages:
